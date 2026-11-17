@@ -1,7 +1,7 @@
 # CSA09 Assignment 2 (CO2): Strings, Collections, Hashing, Generics and Ranking
 
-- **Name:** Bala Ashwin R
-- **Register number:** 1921260102
+- **Name:** Pragadeeswaran S
+- **Register number:** 1965260148
 - **Java version:** OpenJDK 21 (replace with the output of `java -version` on your machine)
 
 ## How to compile and run
